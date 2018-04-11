@@ -9,4 +9,4 @@ contract 定义放在 `src/test/resourses/contract` 目录
 在单元测试时，可以用于启动 mock server, 
 `@AutoConfigureStubRunner(ids = {"demo.spring.cloud:hello-contract-demo-server:+:stubs:8080"}, workOffline = true)`
 详见 `demo.spring.cloud.contract.test.LoanApplicationServiceTests`
->>>>>>> hello
+
